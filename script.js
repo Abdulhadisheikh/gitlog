@@ -6,3 +6,4 @@ function sum() {
     return c;
 }
 console.log(c);
+
